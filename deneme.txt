@@ -1,6 +1,7 @@
-Masterda değişiklik yapıyorum
+2. brach için ekleme yaptım.
 1
 2
+Masterda değişiklik yapıyorum
 3
 ilk değişiklik yaptım.
 deneme2 branchi için yazdım.
